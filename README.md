@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a college project.<br><br>🌱 I’m currently learning Blockchain, Cloud Computing, and Big Data Analytics.<br><br>👨‍💻 You are welcome to contribute to my GitHub project<br><br>💬 Ask me about Java, Python, Algorithms, MERN Stack, ML, AI, and Chess.<br><br>📫 Know more about me on my Personal Portfolio<br><br>⚡ Fun fact: I've been playing chess even when I'm stressed.</p>
+<p align="left">🔭 I’m currently working on a college project.<br><br>🌱 I’m currently learning Blockchain, Cloud Computing, Big Data Analytics.<br><br>👨‍💻 You are welcome to contribute to https://github.com/Moses-Padirolu/cbit_club_client<br><br>💬 Ask me about Java, Python, Algorithms,MERN Stack, ML, AI and Chess.<br><br>📫 How to know more about me - Personal Portfolio: https://mosesportfoliio.netlify.app/<br><br>⚡ Fun fact Been playing chess even im stressed.</p>
 
 ###
 
