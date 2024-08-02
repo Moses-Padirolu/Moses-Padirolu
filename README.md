@@ -1,19 +1,21 @@
-<h2 align="center">Hi 👋! Im Moses Padirolu</h2>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moses-Padirolu.Moses-Padirolu&left_color=black&right_color=darkcyan&left_text=Profile%20Views"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moses-Padirolu.Moses-Padirolu&left_color=darkgreen&right_color=darkgreen&left_text=Profile%20Views"  />
 </div>
 
 ###
 
+<h2 align="center">Hello Humans, Im Moses Padirolu</h2>
+
+###
+
+<p align="center">A seasoned fullstack developer and expertise in datascience.</p>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moses-Padirolu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Moses-Padirolu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moses-Padirolu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moses-Padirolu&theme=dracula&hide_border=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Moses-Padirolu&theme=dracula&margin-w=5&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moses-Padirolu&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Moses-Padirolu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Moses-Padirolu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -61,17 +63,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<p align="left">About  Me</p>
 
 ###
