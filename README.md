@@ -1,9 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moses-Padirolu.Moses-Padirolu&left_color=darkgreen&right_color=darkgreen&left_text=Profile%20Views"  />
-</div>
-
-###
-
 <h2 align="center">Hello Humans, Im Moses Padirolu</h2>
 
 ###
@@ -12,10 +6,40 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moses-Padirolu.Moses-Padirolu&left_color=darkgreen&right_color=darkgreen&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<p align="left">🔭 I’m currently working on a college project.<br><br>🌱 I’m currently learning Blockchain, Cloud Computing, and Big Data Analytics.<br><br>👨‍💻 You are welcome to contribute to my GitHub project<br><br>💬 Ask me about Java, Python, Algorithms, MERN Stack, ML, AI, and Chess.<br><br>📫 Know more about me on my Personal Portfolio<br><br>⚡ Fun fact: I've been playing chess even when I'm stressed.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/moses_q8_007/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="moses9822" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
+  </a>
+  <a href="mosespadirolu007@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/moses-padirolu-691a80258/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="7993145384" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moses-Padirolu&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Moses-Padirolu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Moses-Padirolu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moses-Padirolu&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Moses-Padirolu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Moses-Padirolu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
